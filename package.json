@@ -1,0 +1,17 @@
+{
+  "name": "pruebaservidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nodemon": "^1.19.2",
+    "express": "^4.18.2"
+  }
+}
